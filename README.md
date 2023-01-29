@@ -1,2 +1,2 @@
 # WP43
-A wiki repository for the work package 4 task 3 on extreme event detection
+A wiki repository for the Work Package 4 Task 3 - extreme event detection. Please do not modify this page and go to the wiki tab instead.
